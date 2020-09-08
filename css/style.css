@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #282828;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+}
+
+.form-group {
+  display: flex;
+  justify-content: center;
+}
+
+.form-group input {
+  text-align: center;
+
+  background: #1A1A1A;
+  color: white;
+  
+  width: 90px;
+  height: 40px;
+
+  margin: 150px 8px 10px;
+
+  border: 1.5px solid transparent;
+  border-radius: 5px;
+
+  font-family: 'Roboto', sans-serif;
+
+  font-size: 14px;
+  
+
+  outline: none;
+  transition: border-color 0.2s ease-in;
+}
+
+.form-group input:focus {
+  border-color: #772ce8;
+}
+ 
+.form-group button {
+  background-color: rgb(113, 89, 193);
+
+  border-radius: 5px;
+  border: 0;
+  width: 195px;
+  height: 45px;
+
+  color: white;
+  font-size: 16px;
+
+  font-family: 'Roboto', sans-serif;
+
+  cursor: pointer;
+
+  outline: none;
+
+  transition: 0.2s;
+}
+
+.form-group button:hover {
+  background-color: #772ce8;
+}
+
+.form-group:last-child {
+  margin-top: 40px;
+}
