@@ -29,7 +29,7 @@ body {
   width: 90px;
   height: 40px;
 
-  margin: 150px 8px 10px;
+  margin: 150px 8px 6px;
 
   border: 1.5px solid transparent;
   border-radius: 5px;
@@ -46,7 +46,23 @@ body {
 .form-group input:focus {
   border-color: #772ce8;
 }
- 
+
+.circle {
+  display: flex;
+  justify-content: center;
+  
+  margin-bottom: 6px;
+} 
+
+.circle-color {
+  color: #772ce8;
+}
+
+.text {
+  color: wheat;
+  margin-left: 6px;
+}
+
 .form-group button {
   background-color: rgb(113, 89, 193);
 
