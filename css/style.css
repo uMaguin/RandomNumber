@@ -13,9 +13,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.container {
-}
-
 .form-group {
   display: flex;
   justify-content: center;
@@ -133,4 +130,4 @@ body {
 
 .result-content ul li strong {
   color: #FF7373
-}*/
+} */
