@@ -97,16 +97,17 @@ body {
 .form-group:last-child {
   margin-top: 40px;
 }
-/*
+
 .result-container {
   text-align: center;
 
   align-items: center;
 
   margin-top: 30px;
-  color: wheat;
+  color: white;
 }
 
+/*
 .result-content {
   margin-top: 10px;
 
