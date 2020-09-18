@@ -1,15 +1,6 @@
-<p align="center">
-<a href="https://rocketseat.com.br">
-    <img alt="badge rocketseat" align="center" src="https://img.shields.io/youtube/views/yiDq9wUiUjc?style=social">
-  </a>
-
----
-
 ## 📊 Sobre o projeto:
 
 Uma aplicação muito simples que fornece números aleatórios.
-
-</p>
 
 <!-- ---
 
@@ -40,10 +31,11 @@ git clone https://github.com/uMaguin/RandomNumber
 
 Para executá-la é muito simples, basta abrir o arquivo `index.html` em qualquer navegador.
 
+---
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
 ---
 
