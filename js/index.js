@@ -7,7 +7,5 @@ button.addEventListener("click", function () {
 
     const answer = document.getElementById("result");
 
-    answer.innerHTML= Math.floor(Math.random() * (max - min + 1) + min);
-
-   
+    answer.innerHTML = Math.floor(Math.random() * (max - min + 1) + min);
 });

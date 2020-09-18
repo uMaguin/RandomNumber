@@ -13,6 +13,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* 
+  INPUT 
+        */
+
 .form-group {
   display: flex;
   justify-content: center;
@@ -45,27 +49,9 @@ body {
   border-color: #772ce8;
 }
 
-.circle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  
-  margin-bottom: 6px;
-} 
-
-.circle-color {
-  color: #772ce8;
-}
-
-.text {
-  color: white;
-
-  font-family: 'Poppins', sans-serif;
-  font: bold;
-  font-size: 14px;
-
-  margin-left: 6px;
-}
+/* 
+  BUTTON
+        */
 
 .form-group button {
   background-color: rgb(113, 89, 193);
@@ -74,6 +60,8 @@ body {
   border: 0;
   width: 196px;
   height: 45px;
+
+  margin-top: 3px;
 
   color: white;
   font-size: 16px;
@@ -95,39 +83,15 @@ body {
   margin-top: 40px;
 }
 
+/* 
+  RESULT
+        */
+
 .result-container {
   text-align: center;
 
   align-items: center;
 
-  margin-top: 30px;
+  margin-top: 25px;
   color: white;
 }
-
-/*
-.result-content {
-  margin-top: 10px;
-
-  border: 0.5px solid #772ce8;
-  background: #1A1A1A;
-
-  border-radius: 5px;
-
-  padding: 15px;
-}
-
-.result-content ul {
-  list-style: none;
-}
-
-.result-content ul li {
-  font-size: 14px;
-  font-weight: bold;
-  font-family: 'Montserrat Bold', sans-serif;
-
-  line-height: 30px;
-}
-
-.result-content ul li strong {
-  color: #FF7373
-} */
