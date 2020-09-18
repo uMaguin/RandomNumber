@@ -5,15 +5,17 @@
 
 ---
 
-## 🔥 Sobre o projeto:
+## 📊 Sobre o projeto:
 
-O <strong>getkcal</strong> é uma aplicação simples feita totalmente em JavaScript puro, que se constitui uma calculadora de calorias no qual há métodos para calculo de metabolismo basal, mantimento de peso, perder peso e ganhar peso.
+Uma aplicação muito simples que fornece números aleatórios.
 
 </p>
 
----
+<!-- ---
 
 <img src="/images/projeto.png" align="center"></img>
+
+-->
 
 ---
 
@@ -33,7 +35,7 @@ O projeto não necessita de nenhuma instalação.
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/uMaguin/getkcal
+git clone https://github.com/uMaguin/RandomNumber
 ```
 
 Para executá-la é muito simples, basta abrir o arquivo `index.html` em qualquer navegador.
@@ -46,4 +48,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com 🖤 e muito ☕ by <a href="https://github.com/uMaguin">Rafael Henrique</a>
-
