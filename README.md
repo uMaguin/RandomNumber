@@ -1,4 +1,4 @@
-## 📊 Sobre o projeto:
+## 📊 Sobre o projeto
 
 Uma aplicação muito simples que fornece números aleatórios.
 
